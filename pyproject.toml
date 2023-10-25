@@ -2,6 +2,7 @@
 requires = ["setuptools", "wheel", "setuptools_scm"]
 
 [project]
+name = "test_setup_scm"
 dynamic = ["version"]
 
 [tool.setuptools_scm]
