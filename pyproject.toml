@@ -2,4 +2,4 @@
 requires = ["setuptools", "wheel", "setuptools_scm"]
 
 [tool.setuptools_scm]
-write_to = "test_setup_scm/_version.py"
+write_to = "test_setup_scm/src/_version.py"
