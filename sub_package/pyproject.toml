@@ -1,5 +1,5 @@
 [build-system]
-requires = ["setuptools", "wheel", "setuptools_scm[toml]>=6.0"]
+requires = ["setuptools>=45", "wheel", "setuptools_scm[toml]>=6.0"]
 
 [project]
 name = "test_setup_scm"
