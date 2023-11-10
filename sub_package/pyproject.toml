@@ -6,4 +6,5 @@ name = "test_setup_scm"
 dynamic = ["version"]
 
 [tool.setuptools_scm]
+root = ".."
 write_to = "src/test_setup_scm/_version.py"
